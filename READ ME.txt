@@ -1,0 +1,5 @@
+Lenguaje: Python
+Sistema Operativo: Windows
+github: https://github.com/barrycoder23/HuffMan
+
+Nota: Para el ejecutable, usamos una herramienta de python llamada "pyinstaller" que permite crear ejecutables con y sin GUI.
