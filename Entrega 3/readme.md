@@ -6,7 +6,7 @@
 -Mariana Vasquez Escobar
 
 
-##Breve descripcion
+## Breve descripcion
 
 Compilador de archivos de texto por medio de un algoritmo de Huffman Adaptativo, el output es dado en un archivo binario tipo BIN, los parametros se deben dar a la hora de ejecucion de la siguiente manera:
 
